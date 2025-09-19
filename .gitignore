@@ -1,3 +1,15 @@
+# Package speciific gitignore file
+__pycache__/
+.http_cache/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+/data/
+/ReadingViews/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

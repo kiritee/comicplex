@@ -1,0 +1,7 @@
+# Development-only dependencies for ComicPlex
+-r requirements.txt
+pytest>=8.2
+coverage>=7.6
+black>=24.4
+ruff>=0.4
+mypy>=1.10
